@@ -1,0 +1,11 @@
+opencv-contrib-python
+numpy
+matplotlib
+tensorflow
+keras
+python-socketio
+flask
+eventlet
+
+
+#   pip install -r Requirement_self_driving.txt
